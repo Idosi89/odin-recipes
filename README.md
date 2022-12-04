@@ -1,1 +1,2 @@
-# odin-recipes
+# odins-recipes
+Page about recipes just practising
